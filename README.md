@@ -1,6 +1,13 @@
 # Group_Project_2_DATA_5322
 Data_5322 Group Project around DS Salaries
 
+### Project Background
+
+Despite having one more year until our program ends, finding a job post-graduation is a hot (and anxiety-inducing) topic in our cohort. 
+Our proactive team would like to get a head start on the job searching process, and will be analyzing the salaries of data scientists throughout the 2020s. 
+With the rise of AI and automation, the data science job market has seen significant shifts in compensation, remote work adoption, and demand across experience levels. 
+Understanding these trends will help us make informed decisions about career paths, specializations, and salary negotiations upon graduation.
+
 Data Science Job Salaries Dataset contains 11 columns, each are:
 
 Column 	    Description
